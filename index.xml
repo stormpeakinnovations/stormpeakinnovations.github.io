@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPI</title>
+    <link>https://stormpeakinnovations.github.io/</link>
+    <description>Recent content on SPI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; 2016 Storm Peak Innovations, LLC</copyright>
+    <atom:link href="https://stormpeakinnovations.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
